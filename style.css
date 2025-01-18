@@ -1,0 +1,39 @@
+body
+{
+    background-color: orange;
+}
+.top-thing { 
+    background-color: royalblue;
+    padding:0.000002%;
+    border-radius: 15px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+    text-align: center;
+    font-size: 150%;
+    font-family: "Montserrat", sans-serif;
+    color: white;
+}
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+a:hover {
+    color: black;
+}
+.card {
+    margin-right: 1.5%;
+    margin-bottom: 1.5%;
+    font-family: "Montserrat", sans-serif;
+}
+.card-header
+{
+    font-weight: bolder;
+    font-size:large;
+}
+.logo
+{
+    width: 300px;
+    
+}
